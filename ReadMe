@@ -1,1 +1,6 @@
-this is test repo
+tetris code in progress. currently it opens canvas and tetris starts throwing the bricks. user can move the bricks.
+blocks are generated randomly.
+Todo Requirements: 
+If row is complete w/o holes remove it, shift the bricks on the top to empty location.
+Show and maintain the points of the user.
+If the canvas is filled then show Game over message.
